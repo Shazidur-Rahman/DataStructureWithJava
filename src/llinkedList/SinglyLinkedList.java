@@ -117,6 +117,7 @@ public class SinglyLinkedList {
         head = null;
         tail = null;
         System.out.println("The SLL deleted successfully");
+        System.out.println("End");
 
     }
 
